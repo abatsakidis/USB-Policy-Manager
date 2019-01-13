@@ -8,11 +8,11 @@ USB Policy Manager
 * Select USB Policy Access Mode (Full/Read Only/Disabled) 
 * Select Registry Editor Policy (Disable or not)
 * Click Apply button
-<br>
+
 * Select "Set Password" for setting Password protection for the application
 <br><br>
 
-## Screenshots
+## Screenshot
 
 ![Alt text](/Screenshot/screen.jpg?raw=true "USB Policy Manager ")
 
