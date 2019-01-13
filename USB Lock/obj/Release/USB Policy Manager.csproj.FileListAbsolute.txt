@@ -1,0 +1,14 @@
+C:\Users\mantis\Desktop\USB Lock\USB Lock\bin\Release\USB_Policy.exe
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB Policy Manager.csprojAssemblyReference.cache
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB_Policy.frmPasswordCheck.resources
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB_Policy.frmPassword.resources
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB_Policy.frmMain.resources
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB Policy Manager.csproj.GenerateResource.cache
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB Policy Manager.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Desktop\USB Lock\USB Lock\bin\Release\USB_Policy_Manager.exe
+C:\Users\mantis\Desktop\USB Lock\USB Lock\bin\Release\USB_Policy_Manager.pdb
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB_Policy_Manager.Properties.Resources.resources
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB_Policy_Manager.exe
+C:\Users\mantis\Desktop\USB Lock\USB Lock\obj\Release\USB_Policy_Manager.pdb
+C:\Users\mantis\Desktop\USB Lock\USB Lock\bin\Debug\USB_Policy_Manager.exe
+C:\Users\mantis\Desktop\USB Lock\USB Lock\bin\Debug\USB_Policy_Manager.pdb
