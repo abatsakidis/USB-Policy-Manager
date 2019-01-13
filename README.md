@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wxhrncy2kfji215q?svg=true)](https://ci.appveyor.com/project/abatsakidis/usb-policy-manager)
+
 ## Description
 
 USB Policy Manager 
